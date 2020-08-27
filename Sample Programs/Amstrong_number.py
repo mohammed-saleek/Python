@@ -1,0 +1,3 @@
+#Amstrong Number
+
+number
